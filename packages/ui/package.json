@@ -4,6 +4,7 @@
   "exports": {
     "./counter": "./components/counter.ts",
     "./header": "./components/header.ts",
+    "./section": "./components/section.ts",
     "./setup-counter": "./utils/counter.ts"
   },
   "license": "MIT",

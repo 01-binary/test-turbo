@@ -14,7 +14,7 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
       <img src="${typescriptLogo}" class="logo vanilla" alt="TypeScript logo" />
     </a>
     ${Header({ title: 'Web' })}
-    // ${Section({ text: 'Section' })}
+    ${Section({ text: 'Section' })}
     <div class="card">
       ${Counter()}
     </div>
